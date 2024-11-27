@@ -1,0 +1,3 @@
+/workspaces/Параллельное программирование/project2/build/CMakeFiles/main.dir
+/workspaces/Параллельное программирование/project2/build/CMakeFiles/edit_cache.dir
+/workspaces/Параллельное программирование/project2/build/CMakeFiles/rebuild_cache.dir
